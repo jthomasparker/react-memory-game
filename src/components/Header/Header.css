@@ -1,0 +1,11 @@
+nav > .navbar {
+   /* margin-bottom: 20px;*/
+}
+
+.jumbotron {
+    margin-top: 80px;
+    background-image: url('../../assets/img/michael-scott-quote.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: right;
+}
